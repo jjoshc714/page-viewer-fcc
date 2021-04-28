@@ -11,8 +11,8 @@ https://www.freecodecamp.org/certification/joshc714/data-analysis-with-python-v7
 
 #### Plots:
 
-![](images/line_plot.png)
+![](visuals/line_plot.png)
 
-![](images/bar_plot.png)
+![](visuals/bar_plot.png)
 
-![](images/box_plot.png)
+![](visuals/box_plot.png)
